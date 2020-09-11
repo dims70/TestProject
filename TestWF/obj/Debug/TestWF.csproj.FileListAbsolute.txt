@@ -1,0 +1,17 @@
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\TestWF.exe.config
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\TestWF.exe
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\TestWF.pdb
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\EntityFramework.dll
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\EntityFramework.xml
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dimas\source\repos\TestWF\TestWF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.csprojAssemblyReference.cache
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.LoginForm.resources
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.Properties.Resources.resources
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.csproj.CopyComplete
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.exe
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.pdb
+C:\Users\Dimas\source\repos\TestWF\TestWF\obj\Debug\TestWF.MainForm.resources
